@@ -1,0 +1,141 @@
+header{
+    margin: 0%;
+}
+
+body{
+    background-image: url('../img/fondo3.jpg');
+    background-size: 100%;
+    background-position: 0%;
+   
+    
+}
+.contenedor{
+    border: 2px solid transparent;
+    border-radius: 10px;
+    box-shadow: 4px 10px 11px rgba(1, 0, 0, 0.5);
+    margin-left: 100px;
+    margin: 250px;
+    padding: 20px;
+    margin-block: 10px;
+    background-color: rgba(4, 108, 122, 0.8);
+    position: relative;
+    top: 30px;
+    opacity: 1;
+    height: 500px;
+    display: inline-block;
+}
+
+
+.form-img{
+    position: absolute; 
+    top: 0px; 
+    left: 0%;
+    border-radius: 5px; 
+    width: 440px;
+    height: 542px;
+}
+
+h1{
+    font-family: "Playfair Display", serif;
+    font-optical-sizing: auto;
+    font-style: normal;
+    margin-left:470px;
+    display: block;
+    font-weight: lighter;
+    color: white; 
+    opacity: 1;
+    font-size: 80px;
+    text-decoration: underline;
+}
+div{
+    
+    margin: 10px;
+    margin-bottom: 30px;
+    margin-left: 400px;
+}
+
+input{
+    width: 300px;
+    cursor: pointer;
+    border: none;
+    border-radius: 3px;
+    box-decoration-break: clone;
+    border-bottom: 1px solid black;
+    outline: none;
+    background-color: transparent;
+    position: relative;
+    float: right;
+    margin: 20px;
+    
+
+
+    
+}
+
+
+
+
+input:hover{
+
+    border-color: blue;
+}
+header button{
+    margin: 100px;
+    margin-left: 600px;
+    appearance: 1;
+    cursor: pointer;
+    border-radius: 4px;
+    height: 30px solid;
+    width: 100px;
+    height: 40px;
+    background-color: transparent;
+    border-color: aqua;
+    color: white;
+    display: relative
+    ;
+    
+}
+.user-input{
+    position: relative;
+    width: 300px;
+    color: white;
+    float: right;
+
+
+
+
+
+}
+.user-input:hover{
+    border-color: blue;
+    place-content: 12px;
+}
+p{
+    font-size: 5rem;
+    color:white;
+    position: absolute;
+    top: 10%;
+    left: 10%;
+    font-family: "Briem Hand", cursive;
+    font-optical-sizing: auto;
+    font-style: normal;
+
+    
+    
+
+}
+.p-container{
+    font-size: 5rem;
+    color:white;
+    position: absolute;
+    top: 30%;
+    left: 10%;
+    font-family: "Briem Hand", cursive;
+    font-optical-sizing: auto;
+    font-style: normal;
+
+}
+
+
+
+
